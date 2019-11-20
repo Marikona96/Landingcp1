@@ -552,7 +552,7 @@ div#preloader.fluidview {
 	line-height: 25px;
 }
 #polydom-62 p{
-	font-family: Muli;
+	font-family: work sans;
 	line-height: 22px;
 }
 #polydom-63 h6{
@@ -1098,7 +1098,7 @@ a[data-lightbox]{
 }
 a[data-lightbox]:hover::before{
 	content:"+";
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", work sans, Arial;
 	font-size:32px;
 	width:50px;
 	height:50px;
@@ -1254,7 +1254,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .built-with-polydoms-polydom p{
 	font-size:11px;
-	font-family:"helvetica";
+	font-family:"work sans";
 	font-weight:bold;
 	color:rgba(255,255,255,0.8);
 }
@@ -1272,7 +1272,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	font-size:33px;
 }
 p{
-	font-family:"Muli";
+	font-family:"work sans";
 }
 /*-----------------------------------------------------------------------------------
 	
