@@ -1655,12 +1655,17 @@ p{
     margin-top: 40px;
 }
 
-.button{
+#mc-embedded-subscribe{
     color: #3644C0;
     margin-bottom: 30px;
     margin-top: 30px;
-    border-radius: 30px;
+    border-radius: 60px;
     background-color: #FFD82B;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-color: #FFD82B;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 #boton{
