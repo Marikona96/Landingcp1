@@ -1670,23 +1670,13 @@ p{
 
 
 .boton{
-    color: #3644C0;
+	color: #3644C0;
     background-color: #FFD82B;
     border-color: #ffffff;
-    border-radius: 60px;
-	clear: both;
-    border: 0 none;
-
-    cursor: pointer;
-    display: inline-block;
-    font-size: 15px;
-    font-weight: normal;
-    height: 32px;
-    padding: 0 22px;
-    text-align: center;
-    text-decoration: none;
-    vertical-align: top;
-    white-space: nowrap;
+    border-radius: 60px!important;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 }
 
